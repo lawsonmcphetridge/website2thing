@@ -1,0 +1,94 @@
+
+body {
+    background: url(./videos/tokyo\ vaporwave.gif); 
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.header {
+padding: 0 500px;
+
+}
+
+
+.edean   {
+    border: dashed 3px blue;
+    border-radius: 2rem;
+    margin: 0 100px;
+    background: aqua;
+    
+}
+
+.danny {
+    border-bottom:  solid 5px blue;
+    border-radius: 2rem;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 400%;
+    background-color: brown;
+    text-align: center;
+    padding: 50px 5px;
+    margin: 70px 5px;
+    
+}
+
+.danny:hover {
+    color: blanchedalmond;
+    
+}
+
+.hover-2 {
+    border-radius: 1rem;
+  text-align: center;
+  font-size: 400%;
+
+    --h: 1.2em;
+  
+    line-height: var(--h);
+    color: #0000;
+    text-shadow: 
+      0 var(--_t,var(--h)) rgb(0, 0, 0),
+      0 0 var(--_c, rgb(147, 159, 231));
+    background: 
+      linear-gradient(#5e5555 0 0) 
+      bottom/100% var(--_d, 0) no-repeat;
+    overflow: hidden;
+    transition: 0.3s;
+  }
+  .hover-2:hover {
+    --_d: 100%;
+    --_t: 0;
+    --_c: #0000;
+  }
+
+.best-ever {
+    
+    font-family: 'The Nautigal', cursive;
+    font-size: 4rem;
+    background-color: aqua;
+        text-align: center;
+        padding: 7% 1%;
+        margin: 0% 15%;
+    
+    }
+
+video {
+
+    left: 100px;
+    text-align: center;
+    display: block;   
+    margin-bottom: 100px;
+    margin: 0 auto 100px auto;
+    
+}
+
+.lawson {
+    font-size: 5rem;
+    text-align: center ;
+    color: aliceblue;
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+
